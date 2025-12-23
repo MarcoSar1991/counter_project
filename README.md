@@ -34,3 +34,8 @@ git clone https://github.com/MarcoSar1991/counter_project.git
 2. Aprire index.html in un browser moderno.
 
 3. Interagire con i pulsanti per incrementare, decrementare o resettare il contatore.
+
+
+## Licenza
+
+Questo progetto è rilasciato sotto MIT License.
