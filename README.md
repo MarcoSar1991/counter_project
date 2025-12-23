@@ -31,7 +31,7 @@ Il progetto è pensato come esercizio didattico per consolidare concetti base di
 ## Come usare
 
 1. Clonare il repository:
-git clone https://github.com/tuo-username/counter-app.git
+git clone https://github.com/MarcoSar1991/counter_project.git
 
 2. Aprire index.html in un browser moderno.
 
