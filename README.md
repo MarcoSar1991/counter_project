@@ -17,8 +17,6 @@ Il progetto è pensato come esercizio didattico per consolidare concetti base di
 - Incremento e decremento tramite pulsanti “+” e “−”
 - Pulsante **Reset** per riportare il contatore a 0
 - Disabilitazione automatica del pulsante decremento quando il contatore è 0
-- Colori dei pulsanti e hover interattivi
-- Layout responsive: i pulsanti si adattano su schermi piccoli
 - Persistenza del valore tramite Local Storage
 
 ## Tecnologie utilizzate
