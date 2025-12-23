@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.counter-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    background-color: #ffffff;
+    padding: 20px 30px;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.counter-value {
+    font-size: 48px;
+}
+
+.buttons-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto;
+    gap: 20px;
+}
+
+button {
+    font-size: 24px;
+    width: 60px;
+    height: 60px;
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+button[data-action="reset"] {
+    grid-column: 1 / span 2;
+    width: auto;
+}

@@ -1,0 +1,11 @@
+Possibili estensioni (facoltative)
+1 - Impedire valori negativi
+2 - Salvare il valore nel localStorage
+3 - Aggiungere un pulsante “Reset”
+4 - Cambiare colore in base al valore
+
+
+Cose non considerate:
+Responsività
+Accessibilità
+Css non complesso visto il focus sulle funzionalità JS ed evitato dunque uso di SCSS
