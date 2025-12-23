@@ -11,8 +11,6 @@ Il progetto è pensato come esercizio didattico per consolidare concetti base di
 - CSS moderno con **Flexbox** e **Grid**
 - Local Storage
 
----
-
 ## Funzionalità
 
 - Visualizzazione del contatore, inizializzato a 0 o al valore salvato
@@ -23,19 +21,12 @@ Il progetto è pensato come esercizio didattico per consolidare concetti base di
 - Layout responsive: i pulsanti si adattano su schermi piccoli
 - Persistenza del valore tramite Local Storage
 
----
-
 ## Tecnologie utilizzate
 
 - HTML5
 - CSS3 (Flexbox e Grid)
 - JavaScript ES6+
 - Local Storage
-
----
-
-
----
 
 ## Come usare
 
